@@ -6,6 +6,7 @@ import { MarketView } from '@/app/components/MarketView';
 import { AdminPanel } from '@/app/components/AdminPanel';
 import { ProfileSettings } from '@/app/components/ProfileSettings';
 
+
 type Page = 'landing' | 'login' | 'dashboard' | 'market' | 'admin' | 'profile';
 
 export default function App() {
